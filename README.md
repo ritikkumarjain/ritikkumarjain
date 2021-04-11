@@ -2,9 +2,9 @@
 This is Ritik kumar Jain
 
 <!--
-**ritikkumarjain/ritikkumarjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**ritikkumarjain/ritikkumarjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 🔭 I’m currently working on Machine learning and Deep learning
 - 🌱 I’m currently learning ...
