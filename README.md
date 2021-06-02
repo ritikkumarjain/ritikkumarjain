@@ -15,8 +15,9 @@ Here are some ideas to get you started:-->
 📫 How to reach me: ritikjain20004@gmail.com
 <!--- 😄 Pronouns: ... -->
 <!--- ⚡ Fun fact: ... -->
-![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritikkumarjain&show_icons=true&theme=great-gatsby)
 <!--- 
+
+![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritikkumarjain&show_icons=true&theme=great-gatsby)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikkumarjain)](https://github.com/anuraghazra/github-readme-stats)
 
  -->
