@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 
 🤔 I’m looking for help with Open source
 <!-- - 💬 Ask me about ... -->
-📫 How to reach me: ritikjain20004@gmail.com
+📫 How to reach me: ritikjain10@outlook.com
 <!--- 😄 Pronouns: ... -->
 <!--- ⚡ Fun fact: ... -->
 <!--- 
