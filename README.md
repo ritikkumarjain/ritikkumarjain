@@ -6,7 +6,7 @@ This is Ritik kumar Jain
 
 Here are some ideas to get you started:-->
 
-🔭 I’m currently working on Machine learning and Deep learning
+🔭 I’m currently working on Machine learning and NLP
 <!-- - 🌱 I’m currently learning ...-->
 👯 I’m looking to collaborate on Data Science projects
 
