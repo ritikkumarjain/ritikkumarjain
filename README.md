@@ -14,7 +14,7 @@ Here are some ideas to get you started:-->
 <!-- - 💬 Ask me about ... -->
 📫 How to reach me: 
 - Email: ritikjain10@outlook.com
-- Linkedin: www.linkedin.com/ritikkumarjain
+- Linkedin: www.linkedin.com/in/ritikkumarjain
 <!--- 😄 Pronouns: ... -->
 <!--- ⚡ Fun fact: ... -->
 <!--- 
