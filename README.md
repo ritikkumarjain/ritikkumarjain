@@ -12,9 +12,9 @@ Here are some ideas to get you started:-->
 
 🤔 I’m looking for help with Open source
 <!-- - 💬 Ask me about ... -->
-📫 How to reach me: 
+<!-- 📫 How to reach me: 
 - Email: ritikjain10@outlook.com
-- Linkedin: www.linkedin.com/in/ritikkumarjain
+- Linkedin: www.linkedin.com/in/ritikkumarjain -->
 <!--- 😄 Pronouns: ... -->
 <!--- ⚡ Fun fact: ... -->
 
