@@ -6,9 +6,9 @@ This is Ritik kumar Jain
 
 Here are some ideas to get you started:-->
 
-🔭 I’m currently working on Machine learning and NLP
+🔭 I’m currently working on DotNet Projects
 <!-- - 🌱 I’m currently learning ...-->
-👯 I’m looking to collaborate on Data Science projects
+👯 I’m looking to collaborate on Data Science/ML/NLP as well as C# based projects
 
 🤔 I’m looking for help with Open source
 <!-- - 💬 Ask me about ... -->
